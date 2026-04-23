@@ -3,6 +3,7 @@ name = "aioboto3"
 description = "Async boto3 wrapper"
 authors = [
     {name = "Terri Cain", email = "terri@dolphincorp.co.uk"},
+    {name = "Sasha Gerrand", email = "sasha.gerrand@mycustomsltd.com"},
 ]
 license = {text = "Apache-2.0"}
 requires-python = ">=3.9"
